@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80" role="img" aria-label="1C:ERP">
+  <title>1C:ERP</title>
+  <rect width="80" height="80" rx="12" fill="#CC0000"/>
+  <text
+    x="50%"
+    y="46"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="'Arial Black', Arial, sans-serif"
+    font-size="28"
+    font-weight="900"
+    fill="#FFFFFF"
+    letter-spacing="-1"
+  >1С</text>
+</svg>
