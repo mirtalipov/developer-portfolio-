@@ -13,5 +13,5 @@ export const personalData = {
   twitter: 'https://x.com/JMirtalipov',
   stackOverflow: '',
   devUsername: "mirtalipov_03",
-  resume: "https://drive.google.com/file/d/13EpNAnvcJxCjMKWtUHyrukxhSykciyzC/view"
+  resume: "https://drive.google.com/file/d/1eDYUfL_VZyCZj2mAYUenqNMIv2IB9I1w/view?usp=sharing"
 }
